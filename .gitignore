@@ -1,0 +1,5 @@
+/.idea
+**/.DS_Store
+*.iml
+lists.py
+regs.py
